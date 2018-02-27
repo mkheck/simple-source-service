@@ -1,0 +1,11 @@
+= Simple Source Service
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
+* https://twitter.com/MkHeck[@mkheck on Twitter]
+
+== Purpose
+
+Demonstrates a minimalist Spring Cloud Stream source application using RabbitMQ
