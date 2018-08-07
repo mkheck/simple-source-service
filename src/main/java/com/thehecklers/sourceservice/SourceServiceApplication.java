@@ -1,6 +1,5 @@
 package com.thehecklers.sourceservice;
 
-import lombok.Data;
 import lombok.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -39,7 +38,6 @@ class PingMaker {
     }
 }
 
-@Data
 @Value
 class Ping {
     private final String id;
